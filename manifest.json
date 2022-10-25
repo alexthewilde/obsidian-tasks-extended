@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-tasks-extended",
+	"name": "Tasks Extended",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugins provides extended functionalities for the Obsidian Tasks Plugin.",
+	"author": "Alexander Wilde",
+	"authorUrl": "https://github.com/alexthewilde",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,19 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+*/
+
+/* Do today icon. */
+.tasks-do-today {
+    text-transform: uppercase;
+    font-size: var(--font-ui-smaller);
+    font-family: var(--font-interface);
+    padding: 6px 6px;
+    border-radius: var(--radius-s);
+    color: var(--text-normal);
+    background-color: var(--background-secondary);
+    white-space: nowrap;
+}
