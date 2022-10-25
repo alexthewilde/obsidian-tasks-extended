@@ -24,3 +24,7 @@ Simply create a tasks view containing `show do today button`. Example:
 show do today button
 ```
 ````
+
+This will produce something like this
+
+![image](https://user-images.githubusercontent.com/67973/197735201-19cf9efb-fd9d-4f19-a2e3-c465766f7ee0.png)
