@@ -3,10 +3,11 @@ with some useful functionalities.
 
 ## Installation
 
-1. Download this plugin and place it under `[your vault]/.obsidian/plugins/`
-2. Run `npm i` to install its dependencies
-3. Enable the plugin in Obsidian Settings
-4. Restart Obsidian
+1. Download this plugin and place it under `[path to your vault]/.obsidian/plugins/`
+2. `cd [path to your vault]/.obsidian/plugins/obsidian-tasks-extended`
+3. Run `npm i` to install its dependencies
+4. Enable the "Tasks Extended" plugin in Obsidian Settings
+5. Restart Obsidian
 
 ## Do Today Button
 
