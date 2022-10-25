@@ -18,6 +18,8 @@ If `scheduled date` is already set to today, then the button will display
 
 Simply create a tasks view containing `show do today button`. Example:
 
+````markdown
 ```tasks
 show do today button
 ```
+````
